@@ -1,4 +1,4 @@
-# -Drugs-Selling-Dashboard-Power-BI-Project
+# Drugs Selling Dashboard Power BI Project
 I designed this interactive Drugs Selling Dashboard using Power BI to analyze key business insights from a pharmacy sales dataset.
 
 The dashboard provides a clear overview of:
@@ -7,6 +7,8 @@ The dashboard provides a clear overview of:
 📦 Total Quantity of Medicines in Stock
 💰 Cost and Selling Price Distribution
 🏪 Medicine and Supplier Performance
+
+![a display of results](pic1.png)
 
 
 Through data visualization, this project helps in:
